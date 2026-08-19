@@ -9,7 +9,7 @@
 A new branching model is applied to this repository, which consists of a master branch and release branches.
 
 > [!NOTE]
-> This repository is a fork of the main Espressif's repo, it was made in order to do some tweaks and changes to the esp_http_server and add some of the missing features listed [here](https://github.com/DJOPRO-YT/ESP8266_RTOS_SDK#list-of-the-new-features).
+> This repository is a fork of the main Espressif's repo, it was made in order to do some tweaks and changes to the esp_http_server and add some of the missing features listed [here](https://github.com/DJOPRO-YT/ESP8266_RTOS_SDK#list-of-new-features).
 
 ### 1. Master branch
 The master branch is an integration branch where bug fixes/features are gathered for compiling and functional testing.
