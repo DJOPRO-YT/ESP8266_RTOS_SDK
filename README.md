@@ -34,8 +34,8 @@ Actions to be taken for *ESP8266_RTOS_SDK v3.0* include the following items:
 5. Others
 
 ## List of new features
-[] Add ``uri_match_fn`` to ``httpd_config_t``.
-[x] Add ``httpd_uri_match_wildcard`` function.
+1. Add ``uri_match_fn`` to ``httpd_config_t``.
+2. Add ``httpd_uri_match_wildcard`` function.
 
 ---
 
