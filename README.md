@@ -8,6 +8,9 @@
 ## About this repository
 A new branching model is applied to this repository, which consists of a master branch and release branches.
 
+> [!NOTE]
+> This repository is a fork of the main Espressif's repo, it was made in order to do some tweaks and changes to the esp_http_server and add some of the missing features listed [here](https://github.com/DJOPRO-YT/ESP8266_RTOS_SDK#list-of-the-new-features).
+
 ### 1. Master branch
 The master branch is an integration branch where bug fixes/features are gathered for compiling and functional testing.
 
@@ -29,6 +32,10 @@ Actions to be taken for *ESP8266_RTOS_SDK v3.0* include the following items:
 3. Update some third-party libraries including FreeRTOS, lwIP, mbedTLS, noPoll, libcoap, SPIFFS, cJSON, wolfSSL, etc.
 4. Update some drivers
 5. Others
+
+## List of new features
+[] Add ``uri_match_fn`` to ``httpd_config_t``.
+[x] Add ``httpd_uri_match_wildcard`` function.
 
 ---
 
